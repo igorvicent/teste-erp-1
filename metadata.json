@@ -1,0 +1,7 @@
+{
+  "name": "ERP Construtora Mobile",
+  "description": "A comprehensive mobile ERP for construction management including site logs, project scheduling, financial tracking, and fiscal management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
